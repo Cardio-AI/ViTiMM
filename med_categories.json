@@ -1,0 +1,68 @@
+{
+    "Antiarrhythmics": [
+        "Amiodarone 600/500",
+        "Amiodarone",
+        "Lidocaine",
+        "Adenosine",
+        "Procainamide"
+    ],
+    "Electrolyte Supplements": [
+        "Potassium Chloride",
+        "Calcium Gluconate",
+        "Calcium Gluconate (CRRT)",
+        "K Phos",
+        "Na Phos"
+    ],
+    "Beta-Blockers": [
+        "Metoprolol",
+        "Labetalol",
+        "Esmolol"
+    ],
+    "Diuretics": [
+        "Furosemide (Lasix)",
+        "Furosemide (Lasix) 250/50",
+        "Mannitol"
+    ],
+    "Cardiac Glycosides": [
+        "Digoxin (Lanoxin)"
+    ],
+    "Insulins": [
+        "Insulin - Regular",
+        "Insulin - Humalog",
+        "Insulin - Glargine",
+        "Insulin - NPH",
+        "Insulin - 70/30",
+        "Insulin - Novolog",
+        "Insulin - Humalog 75/25"
+    ],
+    "Opioid Analgesics": [
+        "Fentanyl",
+        "Fentanyl (Concentrate)",
+        "Hydromorphone (Dilaudid)",
+        "Morphine Sulfate",
+        "Meperidine (Demerol)",
+        "Methadone Hydrochloride"
+    ],
+    "Sedatives and Anesthetics": [
+        "Propofol",
+        "Midazolam (Versed)",
+        "Dexmedetomidine (Precedex)",
+        "Lorazepam (Ativan)",
+        "Ketamine",
+        "Diazepam (Valium)",
+        "Pentobarbital"
+    ],
+    "Thrombolytics": [
+        "Alteplase (TPA)"
+    ],
+    "Vasopressors and Inotropes": [
+        "Norepinephrine",
+        "Phenylephrine",
+        "Epinephrine",
+        "Dopamine",
+        "Vasopressin",
+        "Milrinone",
+        "Dobutamine",
+        "Isuprel"
+    ]
+}
