@@ -16,7 +16,15 @@ We hope our work inspires advancements in multi-modal medical AI by reducing the
 
 ## Usage
 
-Training data and checkpoints can be downloaded from 
+After downloading the MIMIC datasets all plots can be created with the plot_[labs,ecgs,meds].ipynb files.
+
+MIMIC-IV: https://physionet.org/content/mimiciv/3.1/
+
+MIMIC-CXR: https://physionet.org/content/mimic-cxr-jpg/2.1.0/
+
+MIMIC-IC-ECG: https://physionet.org/content/mimic-iv-ecg/1.0/
+
+
 Place the `runs` folder in this directory, the `data` directory can have an arbitrary location.
 
 Training can be performed with:
@@ -34,12 +42,6 @@ python main.py \
     [--ckpt PATH_TO_CKPT] \
     --seed 0
 ```
-
-After downloading the MIMIC datasets all plots can be created with the plot_[labs,ecgs,meds].ipynb files.
-
-MIMIC-IV: https://physionet.org/content/mimiciv/3.1/
-MIMIC-CXR: https://physionet.org/content/mimic-cxr-jpg/2.1.0/
-MIMIC-IC-ECG: https://physionet.org/content/mimic-iv-ecg/1.0/
 
 ## BibTeX
 
