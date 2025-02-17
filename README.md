@@ -22,9 +22,11 @@ During a hospital stay, a patient typically undergoes multiple examinations, eac
 
 Our primary contribution is a substantial reduction of the modeling complexity for multiple irregularly sampled modalities by transforming each modality into an image representation.
 Humans are then tasked with visualizing the different modalities in an informative manner, effectively engaging in a form of "visual prompt engineering".
-For example, laboratory measurements can be represented as line graphs over time to convey trends and patterns~\cite{li2023vitst}.
+For example, laboratory measurements can be represented as line graphs over time to convey trends and patterns (Li et al., 2023).
 Our approach, **Vi**sion **T**ransformer for **i**rregular sampled **M**ulti-modal **M**easurements (**ViTiMM**), unifies the data processing pipeline, significantly reducing modeling complexity. 
 This approach not only mimics the way humans interpret diverse data streams but also demonstrates significant improvements across a range of tasks.
+
+![Description](images/method.drawio.svg)
 
 ## Results
 
